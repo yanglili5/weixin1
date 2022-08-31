@@ -7,7 +7,7 @@
 # 模板消息id
 "template_id": "2mHF6CA3XaDDOjcUj1NLNIYS120J1xSS426znx3HMVs",
 # 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
-"user": ["oTx4q6-WiU9lc8sqMaE8cjx8Bcrk"],
+"user": ["oTx4q6-WiU9lc8sqMaE8cjx8Bcrk","oTx4q61m9LaUz8Wz_raqDZ72lHBg"],
 
 # 信息配置
 # 和风天气apikey
@@ -19,7 +19,7 @@
 # 生日1
 "birthday1": {"name": "宝贝", "birthday": "1997-11-12"},
 # 生日2
-"birthday2": {"name": "小林", "birthday": "1993-09-21"},
+"birthday2": {"name": "小董", "birthday": "1993-09-21"},
 # 在一起的日子，格式同上
 "love_date": "2022-01-01",
 # 金句中文，如果为空，默认会读取金山的每日金句
